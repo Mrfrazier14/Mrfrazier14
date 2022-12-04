@@ -2,9 +2,7 @@
 #### Full-Stack Software Engineer 
 Aaron Frazier is a college student At Western Governors University pursuing his Bachelor’s degree in Software Development and I also attend App Academy Full-stack Engieer coding bootcamp (500+ Hrs oc coding and 40+ Projects). Aaron has earned extensive certifications in his profession. He is an experienced entrepreneur with a demonstrated history of working in the computer software and logistics industry. Skilled in systems administration, operations management, databases, web design, and full-stack development, Aaron is an expert.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/Python/JAVA/RUBY/PHP/GIT & GITHUB/SWIFT/HTTP & REST/DBMS/JSON/SQL/UI & UX DESIGN/NPM/API/Express/PostgreSQL/Mongo DB/GO/
-
-- 🔭 I’m currently working on this page. 
+Skills: VUE JS / REACT / JS / HTML / CSS/Python/JAVA/RUBY/PHP/GIT & GITHUB/SWIFT/HTTP & REST/DBMS/JSON/SQL/UI & UX DESIGN/NPM/API/Express/PostgreSQL/Mongo DB/GO/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrfrazier14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/aaron-frazier-jr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mrfrazier14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/dashboard/recent?workspace=fd883a21-b9ed-4e34-a124-0ade05ead418)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17968333/aaron-frazier-jr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.northstardevelopmentllc.com/)  
