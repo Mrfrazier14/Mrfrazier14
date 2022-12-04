@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, My Name is Aaron Frazier Jr
 #### Full-Stack Software Engineer 
 Aaron Frazier is a college student At Western Governors University pursuing his Bachelor’s degree in Software Development. Aaron has earned extensive certifications in his profession. He is an experienced entrepreneur with a demonstrated history of working in the computer software and logistics industry. Skilled in systems administration, operations management, databases, web design, and full-stack development, Aaron is an expert.
