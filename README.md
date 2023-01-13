@@ -13,12 +13,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS/Python/JAVA/RUBY/PHP/GIT & GITHUB/SWIFT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrfrazier14)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrfrazier14&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrfrazier14&show_icons=true&count_private=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mrfrazier14)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mrfrazier14)
 
-![GitHub metrics](https://metrics.lecoq.io/Mrfrazier14)  
+![GitHub metrics](https://metrics.lecoq.io/Mrfrazier14)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mrfrazier14)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mrfrazier14)
 
-![Profile views](https://gpvc.arturio.dev/Mrfrazier14)  
+![Profile views](https://gpvc.arturio.dev/Mrfrazier14)
