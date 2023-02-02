@@ -1,11 +1,11 @@
 ### Hi there 👋, My Name is Aaron Frazier Jr
 #### Full-Stack Software Engineer 
-Aaron Frazier is a college student At Northwest Career College pursuing IT Degree and Software Engineer Certs and I also attend App Academy/ Free Code Camp Full-stack Engieer coding bootcamp (500+ Hrs oc coding and 40+ Projects). Aaron has earned extensive certifications in his profession. He is an experienced entrepreneur with a demonstrated history of working in the computer software and logistics industry. Skilled in systems administration, operations management, databases, web design, and full-stack development, Aaron is an expert.
+Aaron Frazier is a college student At WGU pursuing Software Engineering Degree and Software Engineer Certs (Full stack engineer) and I also attend App Academy/ Free Code Camp Full-stack Engieer coding bootcamp (500+ Hrs oc coding and 40+ Projects). Aaron has earned extensive certifications in his profession. He is an experienced entrepreneur with a demonstrated history of working in the computer software and logistics industry. Skilled in systems administration, operations management, databases, web design, and full-stack development, Aaron is an expert.
 
 Skills: VUE JS / REACT / JS / HTML / CSS/Python/JAVA/RUBY/PHP/GIT & GITHUB/SWIFT/HTTP & REST/DBMS/JSON/SQL/UI & UX DESIGN/NPM/API/Express/PostgreSQL/Mongo DB/GO/ 
 
 
-IT Certs: Comptia ITF+, Comptia A+, Network +, and PACP Entry level
+IT Certs: Comptia ITF+, CompTIA Project+, AWS Cloud, ITIL Foundtaion, and  PACP Entry level
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrfrazier14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/aaron-frazier-jr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mrfrazier14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/dashboard/recent?workspace=fd883a21-b9ed-4e34-a124-0ade05ead418)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17968333/aaron-frazier-jr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.northstardevelopmentllc.com/)  
 
