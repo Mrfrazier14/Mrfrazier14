@@ -20,7 +20,7 @@ IT Certs: Comptia ITF+, CompTIA A+, CompTIA Network +, and CompTIA Sericty, Comp
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mrfrazier14)
 
-![GitHub metrics](https://metrics.lecoq.io/Mrfrazier14)
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mrfrazier14)
 
