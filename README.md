@@ -3,7 +3,7 @@
 #### Software Engineer 
 Aaron Frazier is a college student At WGU pursuing Software Engineering Degree and I also attend App Academy/ Free Code Camp Full-stack Engieer coding bootcamp (500+ Hrs oc coding and 40+ Projects). Aaron has earned extensive certifications in his profession. He is an experienced entrepreneur with a demonstrated history of working in the computer software and logistics industry. Skilled in systems administration, operations management, databases, web design, and full-stack development, Aaron is an expert.
 
-Skills: HTML / CSS/ JS / Python / C / C# / .Net / ASP.Net / Node.JS / Next.Js / Express.JS / SCSS / React / Bootstrap / Vue JS / JAVA / Spring / GIT & GITHUB / HTTP & REST / DBMS / JSON / SQL / NPM / API / PostgreSQL / Mongo DB / Linux (MINT)/ AWS / Azure / Hardware.
+Skills: HTML / CSS/ JS / Python / C / C# / .Net / ASP.Net / Node.JS / Next.Js / Express.JS / Typescript / SCSS / React / Bootstrap / Vue JS / JAVA / Spring / GIT & GITHUB / HTTP & REST / DBMS / JSON / SQL / NPM / API / PostgreSQL / Mongo DB / Linux (MINT)/ AWS / Azure / Hardware.
 
 
 IT Certs: Comptia ITF+, CompTIA A+, CompTIA Network +, and CompTIA Sericty, CompTIA Project+, AWS Cloud, ITIL Foundtaion, and  PACP Entry level
