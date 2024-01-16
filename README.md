@@ -20,7 +20,9 @@ Protocols: HTTP & REST
 Database Management: DBMS, JSON, SQL, NPM, API, PostgreSQL, MongoDB
 Operating Systems: Linux (Mint)
 Cloud Platforms: AWS, Azure
-Hardware Proficiency
+Networking: CCNA, CCNP
+Network Skills: TCP/IP, Routing, Switching
+Security: Security+ certified, Cybersecurity expertise
 IT Certifications:
 
 CompTIA ITF+
