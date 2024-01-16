@@ -1,6 +1,40 @@
 [WGU Software Engineer updated.pdf](https://github.com/Mrfrazier14/Mrfrazier14/files/10817130/WGU.Software.Engineer.updated.pdf)
 # 💫 About Me:
-Hi there 👋, My Name is Aaron Frazier Jr<br>Security Engineer<br><br>Aaron Frazier is a college student At SNHU pursuing cybersecurity Degree and I also attend App Academy/ Free Code Camp Full-stack Engieer coding bootcamp (500+ Hrs oc coding and 40+ Projects). Aaron has earned extensive certifications in his profession. He is an experienced entrepreneur with a demonstrated history of working in the computer software and logistics industry. Skilled in systems administration, operations management, databases, web design, and full-stack development, Aaron is an expert.<br><br>Skills: HTML / CSS/ JS / Python / C / C# / .Net / ASP.Net / Node.JS / Next.Js / Express.JS / Typescript / SCSS / React / Bootstrap / Vue JS / JAVA / Spring / GIT & GITHUB / HTTP & REST / DBMS / JSON / SQL / NPM / API / PostgreSQL / Mongo DB / Linux (MINT)/ AWS / Azure / Hardware.<br><br>IT Certs: Comptia ITF+, CompTIA Network +, CompTIA security +, CompTIA Project +, Google IT Support, Google Cyberecurity, and PACP Entry level.
+Greetings! 👋
+
+I'm Aaron Frazier Jr, a dedicated Security Engineer currently pursuing a degree in Cybersecurity and Network Engineering at WGU. In addition to my academic pursuits, I am engaged in a Full-Stack Engineer coding bootcamp through App Academy and Free Code Camp, accumulating over 500 hours of coding and completing 40+ projects.
+
+Education:
+
+Pursuing a Cybersecurity and Network Engineering degree at WGU
+App Academy and Free Code Camp Full-Stack Engineer coding bootcamp
+Experience:
+As an experienced entrepreneur, I have a proven track record in the computer software and logistics industry. My skills span various domains, including systems administration, operations management, databases, web design, and full-stack development.
+
+Technical Skills:
+
+Languages: HTML, CSS, JS, Python, C, C#, .Net, ASP.Net, Node.JS, Next.JS, Express.JS, TypeScript, SCSS
+Frameworks/Libraries: React, Bootstrap, Vue JS, JAVA, Spring
+Version Control: GIT & GITHUB
+Protocols: HTTP & REST
+Database Management: DBMS, JSON, SQL, NPM, API, PostgreSQL, MongoDB
+Operating Systems: Linux (Mint)
+Cloud Platforms: AWS, Azure
+Hardware Proficiency
+IT Certifications:
+
+CompTIA ITF+
+CompTIA Network+
+CompTIA Security+
+CompTIA Project+
+Google IT Support
+Google Cybersecurity
+PACP Entry Level
+I am committed to continuous learning and growth in the ever-evolving field of technology. If you have any questions or opportunities for collaboration, feel free to reach out!
+
+Best regards,
+Aaron Frazier Jr
+Security Engineer
 
 
 # 💻 Tech Stack:
