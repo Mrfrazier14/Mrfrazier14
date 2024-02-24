@@ -1,4 +1,3 @@
-My Resume [Aaron_Frazier_ResumeWGU.pdf](https://github.com/Mrfrazier14/Mrfrazier14/files/14001099/Aaron_Frazier_ResumeWGU.pdf)
 # 💫 About Me:
 Greetings! 👋
 
