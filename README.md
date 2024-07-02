@@ -1,41 +1,21 @@
 # 💫 About Me:
 Greetings! 👋
 
-I'm Aaron Frazier Jr, a dedicated Security Engineer currently pursuing a degree in Cybersecurity and Network Engineering at WGU. In addition to my academic pursuits, I am engaged in a Full-Stack Engineer coding bootcamp through App Academy and Free Code Camp, accumulating over 500 hours of coding and completing 40+ projects.
+I'm Aaron Frazier Jr, a dedicated Security Engineer pursuing a BS in Cybersecurity and Data Analytics at Southern New Hampshire University (SNHU). I maintain a stellar 4.0 GPA and am deeply engaged in honing my skills across various tech disciplines.
 
 Education:
 
-Pursuing a Cybersecurity and Network Engineering degree at WGU
-App Academy and Free Code Camp Full-Stack Engineer coding bootcamp
-Experience:
-As an experienced entrepreneur, I have a proven track record in the computer software and logistics industry. My skills span various domains, including systems administration, operations management, databases, web design, and full-stack development.
+Currently pursuing a BS in Cybersecurity and Data Analytics at SNHU Experience:
+
+With a solid entrepreneurial background, I excel in computer software and logistics. My expertise spans systems administration, operations management, databases, web design, and full-stack development.
 
 Technical Skills:
 
-Languages: HTML, CSS, JS, Python, C, C#, .Net, ASP.Net, Node.JS, Next.JS, Express.JS, TypeScript, SCSS
-Frameworks/Libraries: React, Bootstrap, Vue JS, JAVA, Spring
-Version Control: GIT & GITHUB
-Protocols: HTTP & REST
-Database Management: DBMS, JSON, SQL, NPM, API, PostgreSQL, MongoDB
-Operating Systems: Linux (Mint)
-Cloud Platforms: AWS, Azure
-Networking: CCNA, CCNP
-Network Skills: TCP/IP, Routing, Switching
-Security: Security+ certified, Cybersecurity expertise
-IT Certifications:
+Languages: HTML, CSS, JavaScript, Python, C, C#, .NET, ASP.NET, Node.js, Next.js, Express.js, TypeScript, SCSS Frameworks/Libraries: React, Bootstrap, Vue.js, Java, Spring Version Control: Git & GitHub Protocols: HTTP & REST Database Management: DBMS, JSON, SQL, PostgreSQL, MongoDB Operating Systems: Linux (Mint) Cloud Platforms: AWS, Azure Networking: CCNA, CCNP Network Skills: TCP/IP, Routing, Switching Security: CompTIA Security+ certified, Cybersecurity expertise IT Certifications:
 
-CompTIA ITF+
-CompTIA Network+
-CompTIA Security+
-CompTIA Project+
-Google IT Support
-Google Cybersecurity
-PACP Entry Level
-I am committed to continuous learning and growth in the ever-evolving field of technology. If you have any questions or opportunities for collaboration, feel free to reach out!
+CompTIA ITF+ CompTIA Network+ CompTIA Security+ CompTIA Project+ Google IT Support Google Cybersecurity PACP Entry Level I am committed to continuous learning and growth in the ever-evolving field of technology. If you have any questions or opportunities for collaboration, feel free to reach out!
 
-Best regards,
-Aaron Frazier Jr
-Security Engineer
+Best regards, Aaron Frazier Jr Security Engineer
 
 
 # 💻 Tech Stack:
