@@ -1,91 +1,60 @@
-# 💫 About Me  
-Greetings! 👋  
+# Hi, I'm Aaron Frazier Jr. 👋
 
-I'm **Aaron Frazier Jr**, a dedicated **Security Engineer** pursuing a **B.S. in Cybersecurity with a minor in Criminal Justice at the University of Nevada, Las Vegas (UNLV)**. I am passionate about protecting national security, advancing cybersecurity innovation, and applying my skills in both technical defense and justice-oriented frameworks.  
+### Full-Stack Software Engineer | Cybersecurity Professional | Founder, CEO & CTO
 
-📚 At UNLV, I’m not just studying — I’m fully engaged:  
-- **Member of the UNLV Cyber Clinic (2025 Cohort)**, working on real-world cybersecurity defense projects  
-- **Active participant in Capture the Flag (CTF) competitions** to sharpen offensive and defensive cyber skills  
-- **Involved in UNLV cybersecurity clubs and associations**, fostering collaboration, mentorship, and innovation in the student cyber community  
+I build secure, useful software at the intersection of **full-stack engineering**, **cybersecurity**, and **enterprise IT operations**. I bring more than nine years of experience supporting users, endpoints, networks, and business-critical systems—and I am now applying that operational judgment to software engineering.
 
-I combine classroom learning with practical experience, aiming to serve in **federal law enforcement (FBI Cyber Division)** and beyond.  
+[![GitHub](https://img.shields.io/badge/GitHub-Mrfrazier14-181717?logo=github)](https://github.com/Mrfrazier14)
+[![Email](https://img.shields.io/badge/Email-Aaron.frazier2%40snhu.edu-0057B8?logo=microsoftoutlook)](mailto:Aaron.frazier2@snhu.edu)
 
----
+## What I'm focused on
 
-## 🎓 Education  
-- **B.S. Cybersecurity (Minor: Criminal Justice)** – University of Nevada, Las Vegas (UNLV)  
-- Member, **UNLV Cyber Clinic (2025)**  
+- Building **AI-powered full-stack web applications**
+- Developing secure APIs, accessible front ends, and reliable back-end services
+- Applying cybersecurity principles throughout the software development lifecycle
+- Growing **DivineGuard IT Services LLC** and its secure technology products
+- Preparing for full-stack software engineering and cybersecurity opportunities
 
----
+## Education
 
-## 🛡️ Certifications  
-- **Google Cybersecurity Certificate**  
-- **Google IT Professional Certificate**  
-- **CMMC-Registered Practitioner (CMMC-RP)**  
-- **CompTIA ITF+**  
-- **CompTIA Network+**  
-- **CompTIA Security+**  
-- **CompTIA Project+**  
-- **Google IT Support**  
-- **PACP Entry Level**  
-- *(Currently pursuing advanced certs: CompTIA CySA+, CISSP, CEH, AWS, and more)*  
+- **Honors Bachelor of Science in Cybersecurity** — Southern New Hampshire University  
+  Expected graduation: **December 2026**
+- **Bachelor of Science in Computer Science** — Southern New Hampshire University  
+  **Dual enrollment, in progress** · Focused on software engineering and full-stack development
+- **Associate Degree in Cybersecurity, Honors** — Southern New Hampshire University
+- **UNLV Cyber Clinic** — Student analyst working on real-world cybersecurity assessments and client-focused security recommendations
 
----
+## Technical toolkit
 
-## 🛠️ Technical Skills  
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, Python, JavaScript, TypeScript, C, C#, SQL, HTML, CSS |
+| Front end | React, Next.js, Vue.js, Angular, Tailwind CSS, Bootstrap |
+| Back end | Node.js, Express.js, Django, Spring, .NET, ASP.NET, REST APIs |
+| Data | PostgreSQL, MySQL, MongoDB, Oracle, JSON |
+| Platforms | AWS, Azure, Docker, Kubernetes, Linux, macOS, Windows |
+| Security & IT | Vulnerability assessment, IAM, MFA, endpoint security, networking, Jamf Pro, ServiceNow, Active Directory |
 
-**Languages & Frameworks**  
-HTML, CSS, JavaScript, Python, C, C#, Java, .NET, ASP.NET, Node.js, Next.js, Express.js, TypeScript, React, Vue.js, Spring, Angular, Kotlin  
+## Current build
 
-**Tools & Platforms**  
-AWS, Azure, Docker, Kubernetes, Linux, Heroku, Git/GitHub, NPM, Yarn, Redux, TailwindCSS, Bootstrap, Django, jQuery  
+### DivineGuard secure AI products
 
-**Databases**  
-SQL, PostgreSQL, MongoDB, Oracle, MySQL, JSON, DBMS  
+I am developing portfolio-grade AI-powered web applications that combine practical automation, accessible user experiences, secure APIs, and cybersecurity thinking. Repositories and case studies will be published here as each project reaches a presentable milestone.
 
-**Networking & Security**  
-CCNA, CCNP, TCP/IP, Routing, Switching, Cybersecurity analysis, SIEM tools  
+## Experience snapshot
 
----
+- **IT Support Desk I (Contract), Precisely** — Remote enterprise troubleshooting, access support, endpoint workflows, documentation, and escalation handoffs
+- **Cybersecurity Consultant / Student Analyst, Cyber Clinic** — Vulnerability assessments, security reviews, mitigation planning, and client-facing reporting
+- **Help Desk Technician / Lead Mac Administrator, Switch** — Tier 1–3 support, Apple fleet administration, Jamf Pro, MaaS360, secure onboarding, and compliance
+- **Founder, CEO & CTO, DivineGuard IT Services LLC** — Technology strategy, secure service delivery, and product development
 
-# 💻 Tech Stack  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
+## Certifications
 
----
+CompTIA Security+ · CompTIA Network+ · CompTIA A+ · Google Cybersecurity · Google IT Support · Full-Stack Development
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mrfrazier14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrfrazier14&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfrazier14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+## Let's connect
 
----
+- GitHub: [github.com/Mrfrazier14](https://github.com/Mrfrazier14)
+- Email: [Aaron.frazier2@snhu.edu](mailto:Aaron.frazier2@snhu.edu)
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=mrfrazier14&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=mrfrazier14&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mrfrazier14&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Building software with a defender's mindset and an operator's understanding of what users actually need.
